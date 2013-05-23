@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Groups Restriction\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-23 11:42+0100\n"
+"PO-Revision-Date: 2013-05-23 11:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../user-groups-restrictions.php:51
+msgid ""
+"Be careful, you must install and activate the plugin 'user-groups' to run "
+"it. Thank you"
+msgstr ""
+
+#: ../inc/class.admin.php:71
+msgid "User Groups Restriction"
+msgstr ""
+
+#: ../inc/class.admin.php:88
+msgid "You must start by add group and after you can make the relation..."
+msgstr ""
+
+#: ../inc/class.admin.php:118
+msgid "Apply this group for all children"
+msgstr ""

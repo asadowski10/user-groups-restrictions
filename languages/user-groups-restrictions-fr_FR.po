@@ -1,0 +1,41 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Relation post type\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-23 11:42+0100\n"
+"PO-Revision-Date: 2013-05-23 11:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: Beapi <beapi@beapi.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../user-groups-restrictions.php:51
+msgid ""
+"Be careful, you must install and activate the plugin 'user-groups' to run "
+"it. Thank you"
+msgstr ""
+"Attention, vous devez installer et activer 'user-groups' pour faire "
+"fonctionner celui-ci. Merci"
+
+#: ../inc/class.admin.php:71
+msgid "User Groups Restriction"
+msgstr "Restrictions pour les groupes d'utilisateurs"
+
+#: ../inc/class.admin.php:88
+msgid "You must start by add group and after you can make the relation..."
+msgstr ""
+"Vous devez commencer par ajouter un groupe pour ensuite faire la relation..."
+
+#: ../inc/class.admin.php:118
+msgid "Apply this group for all children"
+msgstr "Appliquer ce groupe pour toutes les pages enfants"
