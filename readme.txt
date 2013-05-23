@@ -1,6 +1,6 @@
 === User Groups Restrictions ===
 
-Contributors: momo360modena,asadowski10
+Contributors: https://github.com/herewithme/ - https://github.com/asadowski10/
 Donate link: http://www.beapi.fr/donate/
 Tags: groups, user, users, user groups, restriction, access, access-control, group, member, members, page
 Requires at least: 3.0
